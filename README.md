@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshSampat&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=DevanshSampat)
 <img align="left" src="https://camo.githubusercontent.com/6c36211429975605507c8ce03f1622eff9b40e85ca9b40fcf116ce70a6d511aa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d446576616e736853616d70617426636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d67727576626f7826696e636c7564655f616c6c5f636f6d6d6974733d74727565?username=anuraghazra&repo=github-readme-stats" />
-<img align="left" src="https://github.com/anuraghazra/github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshSampat&repo=github-readme-stats" />
