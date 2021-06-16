@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevanshSampat&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshSampat&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=DevanshSampat)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshSampat&repo=github-readme-stats" />
-</a>
