@@ -1,4 +1,4 @@
-### <p align="center"> Hello World !!! Namaste Duniya <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
+### <div align="center"><p> Hello World !!! Namaste Duniya</p> <img src="https://i.gifer.com/origin/23/23b4b79490fdda967ee0fcc8d9c57402_w200.gif" width="150"></div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
