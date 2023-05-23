@@ -9,7 +9,7 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/shruti-solani)  -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevanshSampat&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-sage-delta-51.vercel.app/api?username=DevanshSampat&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevanshSampat&theme=ayu-mirage&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
